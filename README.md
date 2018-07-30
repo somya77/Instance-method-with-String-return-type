@@ -1,0 +1,1 @@
+# Instance-method-with-String-return-type
